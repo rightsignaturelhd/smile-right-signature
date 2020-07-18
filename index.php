@@ -1,4 +1,4 @@
 <?php
-header("Location: https://secure.rightsignature.com/templates/40d1f139-6de6-4992-8c90-8a55c0cd1504/template-signer-link/cff63b116f60139a466aa8c45024525f");
+header("Location: https://secure.rightsignature.com/templates/8f8eea86-6992-4795-9b36-75a12ee4f694/template-signer-link/a3d288527a0d7267df1dacabbaf2c4d8");
 die();
 ?>
